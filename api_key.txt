@@ -1,0 +1,17 @@
+https://developers.google.com/people/quickstart/js
+
+Client ID :
+741136554041-nblekdqjc9ud9cer40f9vi6qoqo0cgde.apps.googleusercontent.com
+Client Secret :
+O9KGIYB1CqgVG81Cca-WcKFl
+YOUR API KEY
+AIzaSyALUYQr6dO33E48Zytz-UAMxZ2XD9rhk14
+
+
+============================================================================
+============================================================================
+
+The OMDb API
+deecef13
+
+http://www.omdbapi.com/?i=tt3896198&apikey=deecef13
